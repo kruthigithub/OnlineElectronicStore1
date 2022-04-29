@@ -1,0 +1,51 @@
+{
+"userId": 1,
+        "userName": "kruthi",
+        "password": "123",
+        "emailId": "kru@gmail.com",
+        "role": "admin",
+        "city": "tirupati",
+        "address": "giripuram",
+        "mobileNumber": "9963149220"
+        }
+         {
+        "deviceId": 1,
+        "deviceName": "mobile",
+        "deviceType": "android",
+        "cost": 50000,
+        "rating": 5,
+        "offers": 50
+    }
+     {
+        "deviceId": 2,
+        "deviceName": "earbuds",
+        "deviceType": "wireless",
+        "cost": 100000,
+        "rating": 5,
+        "offers": 40
+    }
+    
+    post method 
+    
+    [
+    {
+        "userId": 1,
+        "userName": "kruthi",
+        "password": "123",
+        "emailId": "kru@21",
+        "role": "admin",
+        "city": "tpt",
+        "address": "giripuram",
+        "mobileNumber": "9963"
+    },
+    {
+        "userId": 2,
+        "userName": "c.kruthi",
+        "password": "1234",
+        "emailId": "kruthi@gmail.com",
+        "role": "adminwork",
+        "city": "tirupati",
+        "address": "sd",
+        "mobileNumber": "99631000000"
+    }
+]
