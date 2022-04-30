@@ -11,6 +11,8 @@ import com.abc.onlinestore.repository.ElectronicDetailsRepository;
 public class ElectronicServiceImpl implements ElectronicService{
 	@Autowired
 	ElectronicDetailsRepository edr;
+	
+	
 	@Override
 	public List<ElectronicDetails> getallElectronicDetails() {
 		// TODO Auto-generated method stub
